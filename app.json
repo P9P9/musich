@@ -1,7 +1,7 @@
 {
-    "name": "سورس سيمو ميوزك ",
+    "name": "سورس ɢʟᴏʀʏᴍᴜsɪᴄʙᴏᴛ",
     "description": "تشغيل الاغاني في المجموعات",
-    "logo": "https://te.legra.ph/file/46fa55b49b85c084159ce.jpg",
+    "logo": "https://telegra.ph/file/0a3af7b9e0d373ed0ed7d.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/xl444",
-    "repository": "https://github.com/muntazer995/RR8R9",
-    "success_url": "https://t.me/rr8r9",
+    "website": "https://t.me/GlorySource",
+    "repository": "https://github.com/P9P9/Musich",
+    "success_url": "https://t.me/GlorySource",
     "env": {
      "API_ID": {
             "description": "لاتغيرها ابدا",
@@ -45,12 +45,12 @@
         "SUDO_USERS": {
             "description": "اكتب ايديات المطورين",
             "required": true,
-            "value": "1854384004"
+            "value": "5359109940"
         },
         "OWNER_ID": {
             "description": "اكتب ايدي مالك البوت",
             "required": true,
-            "value": "1854384004"
+            "value": "5359109940"
         },
         "OWNER_USERNAME": {
             "description": "اكتب معرف المطور بدون @",
@@ -60,7 +60,7 @@
         "ALIVE_NAME": {
             "description": "اكتب اسم المطور",
             "required": true,
-            "value": "muntazer"
+            "value": "Glory"
         }
     },
     "addons": [],
